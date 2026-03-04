@@ -6,7 +6,7 @@
         "email": "paolacerdas345@gmail.com",
         "telefono": "+506 8814-0600",
         "ubicacion": "Guanacaste, Costa Rica",
-        "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+        "foto": "/assets/imagenpersonal.jpeg",
         "descripcion": "Estudiante con formación en aplicaciones informáticas y experiencia en el desarrollo de proyectos tecnológicos. Interesada en la creación de soluciones funcionales y eficientes, con conocimientos en desarrollo web y manejo de herramientas informáticas. Me caracterizo por ser responsable, organizada y con disposición para el aprendizaje continuo."
     },
     "educacion": [
